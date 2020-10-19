@@ -1,0 +1,11 @@
+{
+    "name": "jp/contovoris",
+    "description": "api",
+    "authors": [
+        {
+            "name": "Frag Spawn",
+            "email": "frag.spawn@gmail.com"
+        }
+    ],
+    "require": {}
+}
