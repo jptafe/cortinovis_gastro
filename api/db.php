@@ -14,7 +14,6 @@ class dbObj {
         return $stmt->execute();
     }
 
-
     function getRestaurants() {
         return "['restaurant': 'here']";
     }
@@ -22,7 +21,7 @@ class dbObj {
         return "['dish': 'food']";
     }
     function checkUserAccount() {
-
+        return "['accout': 'exists']";
     }
 }
 ?>
